@@ -1,0 +1,37 @@
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DBQLCuaHangVangBacDaQuy.mdf
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DBQLCuaHangVangBacDaQuy_log.ldf
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DTO.dll.config
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DTO.dll
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DTO.pdb
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.dll
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.xml
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\obj\Debug\DTO.dll
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\obj\Debug\DTO.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DBQLCuaHangVangBacDaQuy.mdf
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DBQLCuaHangVangBacDaQuy_log.ldf
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DTO.dll.config
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DTO.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DTO.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.xml
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\obj\Debug\DTO.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\obj\Debug\DTO.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DBQLCuaHangVangBacDaQuy.mdf
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DBQLCuaHangVangBacDaQuy_log.ldf
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DTO.dll.config
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DTO.dll
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\DTO.pdb
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\obj\Debug\DTO.dll
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\DTO\obj\Debug\DTO.pdb

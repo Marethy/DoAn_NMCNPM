@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TenDichVu" xml:space="preserve">
+    <value>Tên dịch vụ</value>
+  </data>
+  <data name="TienCong" xml:space="preserve">
+    <value>Tiền công</value>
+  </data>
+  <data name="DetailMessageBox_XacNhanXoa" xml:space="preserve">
+    <value>Bạn có chắn chắc muốn xoá?</value>
+  </data>
+  <data name="TitleMessageBox_ThongBao" xml:space="preserve">
+    <value>Thông báo</value>
+  </data>
+  <data name="DanhSachDichVu_DelError" xml:space="preserve">
+    <value>Đây là dịch vụ mặc định, không xoá được!</value>
+  </data>
+  <data name="TitleMessageBox_Error" xml:space="preserve">
+    <value>Lỗi</value>
+  </data>
+  <data name="TenKH" xml:space="preserve">
+    <value>Tên khách hàng</value>
+  </data>
+  <data name="SDT" xml:space="preserve">
+    <value>Số điện thoại</value>
+  </data>
+  <data name="DiaChi" xml:space="preserve">
+    <value>Địa chỉ</value>
+  </data>
+  <data name="SoTienNo" xml:space="preserve">
+    <value>Số tiền nợ</value>
+  </data>
+  <data name="DanhSachKH_DelError" xml:space="preserve">
+    <value>Không thể xoá khách hàng đã có thực hiện giao dịch với cửa hàng!</value>
+  </data>
+  <data name="TenNV" xml:space="preserve">
+    <value>Tên nhân viên</value>
+  </data>
+  <data name="NgayDK" xml:space="preserve">
+    <value>Ngày đăng ký</value>
+  </data>
+  <data name="NgayGiao" xml:space="preserve">
+    <value>Ngày giao</value>
+  </data>
+  <data name="TongTien" xml:space="preserve">
+    <value>Tổng tiền</value>
+  </data>
+  <data name="DanhSachPDV_DelError" xml:space="preserve">
+    <value>Không thể xoá phiếu dịch vụ đã có chi tiết được gia công!</value>
+  </data>
+  <data name="TenTho" xml:space="preserve">
+    <value>Tên thợ</value>
+  </data>
+  <data name="NgayNhanHang" xml:space="preserve">
+    <value>Ngày nhận hàng</value>
+  </data>
+  <data name="NgayThanhToan" xml:space="preserve">
+    <value>Ngày thanh toán</value>
+  </data>
+  <data name="DanhSachTho_DelError" xml:space="preserve">
+    <value>Không thể xoá thợ đã thực hiện gia công sản phẩm!</value>
+  </data>
+  <data name="NhapDichVu_TenDVEmpty" xml:space="preserve">
+    <value>Tên dịch vụ không được để trống!</value>
+  </data>
+  <data name="NhapDichVu_TienCongEmpty" xml:space="preserve">
+    <value>Tiền công không được để trống!
+Nếu tiền công phụ thuộc vào chi tiết gia công thì nhập vào 0</value>
+  </data>
+  <data name="NhapKhachHang_TenKHEmpty" xml:space="preserve">
+    <value>Tên khách hàng không được để trống!</value>
+  </data>
+  <data name="NhapKhachHang_SDTEmpty" xml:space="preserve">
+    <value>Số điện thoại không được để trống!</value>
+  </data>
+  <data name="NhapKhachHang_DiaChiEmpty" xml:space="preserve">
+    <value>Địa chỉ không được để trống!</value>
+  </data>
+  <data name="TenLoaiSP" xml:space="preserve">
+    <value>Tên loại sản phẩm</value>
+  </data>
+  <data name="SoLuong" xml:space="preserve">
+    <value>Số lượng</value>
+  </data>
+  <data name="ThanhTien" xml:space="preserve">
+    <value>Thành tiền</value>
+  </data>
+  <data name="GhiChu" xml:space="preserve">
+    <value>Ghi chú</value>
+  </data>
+  <data name="NhapPhieuDichVu_LoaiSPEmpty" xml:space="preserve">
+    <value>Loại sản phẩm không được để trống!
+Chọn Khác nếu cửa hàng không kinh doanh loại sản phẩm này.</value>
+  </data>
+  <data name="NhapPhieuDichVu_SoLuongEmpty" xml:space="preserve">
+    <value>Số lượng phải lớn hơn 0</value>
+  </data>
+  <data name="NhapPhieuDichVu_HTGCEmpty" xml:space="preserve">
+    <value>Bạn phải nhập hình thức gia công</value>
+  </data>
+  <data name="LoaiSPKhac" xml:space="preserve">
+    <value>Khác</value>
+  </data>
+  <data name="NhapPhieuDichVu_NgayDkEmpty" xml:space="preserve">
+    <value>Ngày đăng kí không được để trống</value>
+  </data>
+  <data name="NhapPhieuDichVu_NgayGiaoEmpty" xml:space="preserve">
+    <value>Ngày giao không được để trống</value>
+  </data>
+  <data name="NhapPhieuDichVu_NgayGiaoTruocNgayDK" xml:space="preserve">
+    <value>Ngày giao phải lớn hơn hoặc bằng ngày đăng ký!</value>
+  </data>
+  <data name="NhapPhieuDichVu_SoPDVToiThieu" xml:space="preserve">
+    <value>Mỗi phiếu dịch vụ phải có ít nhất 1 chi tiết phiếu dịch vụ</value>
+  </data>
+  <data name="NhapPhieuDichVu_TaoPDVThanhCong" xml:space="preserve">
+    <value>Phiếu dịch vụ được tạo thành công!</value>
+  </data>
+  <data name="HTGC" xml:space="preserve">
+    <value>Hình thức gia công</value>
+  </data>
+  <data name="NhapPhieuGiaCong_SPCanGiaCongEmpty" xml:space="preserve">
+    <value>Bạn phải chọn sản phẩm cần gia công!</value>
+  </data>
+  <data name="NhapPhieuGiaCong_SoLuongBeHonKhong" xml:space="preserve">
+    <value>Bạn phải nhập vào số lượng lớn hơn 0!</value>
+  </data>
+  <data name="NhapPhieuGiaCong_TienCongEmpty" xml:space="preserve">
+    <value>Bạn phải nhập vào tiền công!</value>
+  </data>
+  <data name="NhapPhieuGiaCong_SLGiaCongLonHonSLCo" xml:space="preserve">
+    <value>Số lượng gia công không được lớn hơn số lượng sản phẩm!</value>
+  </data>
+  <data name="NhapPhieuGiaCong_TenThoEmpty" xml:space="preserve">
+    <value>Tên thợ không được để trống</value>
+  </data>
+  <data name="NhapPhieuGiaCong_NgayNhanHangEmpty" xml:space="preserve">
+    <value>Ngày nhận hàng không được để trống</value>
+  </data>
+  <data name="NhapPhieuGiaCong_NgayThanhToanEmpty" xml:space="preserve">
+    <value>Ngày thanh toán không được để trống</value>
+  </data>
+  <data name="NhapPhieuGiaCong_NgayThanhToanTruocNgayNhanHang" xml:space="preserve">
+    <value>Ngày thanh toán phải lớn hơn hoặc bằng ngày nhận hàng!</value>
+  </data>
+  <data name="NhapPhieuGiaCong_SLChiTietPGCToiThieu" xml:space="preserve">
+    <value>Mỗi phiếu gia công phải có ít nhất 1 chi tiết phiếu gia công</value>
+  </data>
+  <data name="NhapPhieuGiaCong_TaoPGCThanhCong" xml:space="preserve">
+    <value>Phiếu gia công được tạo thành công!</value>
+  </data>
+  <data name="ThoatKhoiForm" xml:space="preserve">
+    <value>Thoát</value>
+  </data>
+  <data name="KhachVangLai" xml:space="preserve">
+    <value>Khách vãng lai</value>
+  </data>
+  <data name="SuaCTPDVThanhCong" xml:space="preserve">
+    <value>Sửa chi tiết phiếu dịch vụ thành công!</value>
+  </data>
+  <data name="SuaPhieuDichVu_XoaCTPDVDaGiaCongError" xml:space="preserve">
+    <value>Không thể xoá chi tiết phiếu dịch vụ đã được gia công!</value>
+  </data>
+  <data name="SuaPhieuDichVu_XoaCTPDVThanhCong" xml:space="preserve">
+    <value>Xoá chi tiết phiếu dịch vụ thành công!</value>
+  </data>
+  <data name="SuaPhieuDichVu_ThemCTPDVThanhCong" xml:space="preserve">
+    <value>Thêm chi tiết phiếu dịch vụ thành công!</value>
+  </data>
+  <data name="SuaPhieuDichVu_SuaPDVThanhCong" xml:space="preserve">
+    <value>Sửa phiếu dịch vụ thành công!</value>
+  </data>
+  <data name="SuaPhieuGiaCong_ThemCTPGCThanhCong" xml:space="preserve">
+    <value>Thêm chi tiết phiếu gia công thành công!</value>
+  </data>
+  <data name="SuaPhieuGiaCong_XoaCTPGCThanhCong" xml:space="preserve">
+    <value>Xoá chi tiết phiếu gia công thành công!</value>
+  </data>
+  <data name="SuaPhieuGiaCong_SuaPGCThanhCong" xml:space="preserve">
+    <value>Sửa phiếu gia công thành công!</value>
+  </data>
+  <data name="SuaPhieuGiaCong_SoLuongNhapGCToiDa" xml:space="preserve">
+    <value>Số lượng nhập vào lớn hơn số lượng sản phẩm nhận từ khách hàng</value>
+  </data>
+  <data name="SuaPhieuGiaCong_SLToiDaCoTheNhap" xml:space="preserve">
+    <value>
+Số lượng tối đa có thể nhập: </value>
+  </data>
+  <data name="SuaPhieuGiaCong_SuaCTPGCThanhCong" xml:space="preserve">
+    <value>Sửa chi tiết phiếu gia công thành công!</value>
+  </data>
+  <data name="ThemThanhCong" xml:space="preserve">
+    <value>Thêm thành công!</value>
+  </data>
+  <data name="NgayLapPhieu" xml:space="preserve">
+    <value>Ngày lập phải là ngày hiện tại!</value>
+  </data>
+  <data name="NgNhanHang" xml:space="preserve">
+    <value>Ngày nhận hàng phải là ngày hiện tại!</value>
+  </data>
+  <data name="UpdateSuccess" xml:space="preserve">
+    <value>Cập nhật thành công!</value>
+  </data>
+  <data name="Cant_edit_DVGC" xml:space="preserve">
+    <value>Không thể sửa dịch vụ gia công</value>
+  </data>
+</root>

@@ -1,0 +1,52 @@
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DBQLCuaHangVangBacDaQuy.mdf
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DBQLCuaHangVangBacDaQuy_log.ldf
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\BUL.dll.config
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\BUL.dll
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\BUL.pdb
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DAL.dll
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DTO.dll
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.dll
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DAL.pdb
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DTO.pdb
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.xml
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.dll
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DBQLCuaHangVangBacDaQuy.mdf
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DBQLCuaHangVangBacDaQuy_log.ldf
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\BUL.dll.config
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\BUL.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\BUL.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DAL.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DTO.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DAL.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DTO.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.xml
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.pdb
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DBQLCuaHangVangBacDaQuy.mdf
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DBQLCuaHangVangBacDaQuy_log.ldf
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\BUL.dll.config
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\BUL.dll
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\BUL.pdb
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DAL.dll
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DTO.dll
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DAL.pdb
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DAL.dll.config
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DTO.pdb
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\DTO.dll.config
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.csproj.CopyComplete
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.dll
+C:\Users\PC\Desktop\QLCuaHangVangBacDaQuy.git\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\BUL\obj\Debug\BUL.pdb

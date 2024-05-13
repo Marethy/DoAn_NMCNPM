@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DBQLCuaHangVangBacDaQuyDataSet" targetNamespace="http://tempuri.org/DBQLCuaHangVangBacDaQuyDataSet.xsd" xmlns:mstns="http://tempuri.org/DBQLCuaHangVangBacDaQuyDataSet.xsd" xmlns="http://tempuri.org/DBQLCuaHangVangBacDaQuyDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DBQLCuaHangVangBacDaQuyConnectionString" IsAppSettingsProperty="true" Modifier="Assembly" Name="DBQLCuaHangVangBacDaQuyConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QuanLiBanVang.Properties.Settings.GlobalReference.Default.DBQLCuaHangVangBacDaQuyConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SANPHAMTableAdapter" GeneratorDataComponentClassName="SANPHAMTableAdapter" Name="SANPHAM" UserDataComponentName="SANPHAMTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBQLCuaHangVangBacDaQuyConnectionString (Settings)" DbObjectName="dbo.SANPHAM" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT TenSP, SoLuongTon FROM dbo.SANPHAM</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TenSP" DataSetColumn="TenSP" />
+              <Mapping SourceColumn="SoLuongTon" DataSetColumn="SoLuongTon" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DBQLCuaHangVangBacDaQuyDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DBQLCuaHangVangBacDaQuyDataSet" msprop:Generator_UserDSName="DBQLCuaHangVangBacDaQuyDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SANPHAM" msprop:Generator_TableClassName="SANPHAMDataTable" msprop:Generator_TableVarName="tableSANPHAM" msprop:Generator_RowChangedName="SANPHAMRowChanged" msprop:Generator_TablePropName="SANPHAM" msprop:Generator_RowDeletingName="SANPHAMRowDeleting" msprop:Generator_RowChangingName="SANPHAMRowChanging" msprop:Generator_RowEvHandlerName="SANPHAMRowChangeEventHandler" msprop:Generator_RowDeletedName="SANPHAMRowDeleted" msprop:Generator_RowClassName="SANPHAMRow" msprop:Generator_UserTableName="SANPHAM" msprop:Generator_RowEvArgName="SANPHAMRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TenSP" msprop:Generator_ColumnVarNameInTable="columnTenSP" msprop:Generator_ColumnPropNameInRow="TenSP" msprop:Generator_ColumnPropNameInTable="TenSPColumn" msprop:Generator_UserColumnName="TenSP">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SoLuongTon" msprop:Generator_ColumnVarNameInTable="columnSoLuongTon" msprop:Generator_ColumnPropNameInRow="SoLuongTon" msprop:Generator_ColumnPropNameInTable="SoLuongTonColumn" msprop:Generator_UserColumnName="SoLuongTon" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
